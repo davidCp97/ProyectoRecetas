@@ -1,0 +1,6 @@
+UCanAcces es la libreria que toca incluir para utilizar Acces con NetBeans.
+Video en inglés pero fácil entendimiento:
+
+https://www.youtube.com/watch?v=g8FyEkmh_1Q
+
+En la descripción está cómo hacer inserción y traer datos.
